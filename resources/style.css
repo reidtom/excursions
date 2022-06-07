@@ -1,0 +1,65 @@
+.container {
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+}
+
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link {
+    display: flex;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a {
+    color: aquamarine;
+    font-size:  25px;
+    position: center;
+    font-weight: 500;
+}
+
+h2 {
+    color: white;
+    font-weight: bolder;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#travelguidehead {
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    
+}
+
+#subtext1 {
+    padding-bottom: 0px;
+}
+
+P{
+    color: white;
+    font-size: 42px;
+}
